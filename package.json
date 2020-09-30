@@ -1,0 +1,20 @@
+{
+  "name": "VanHack_Event_Page",
+  "version": "1.0.0",
+  "description": "The event types you should include are: MeetUp, Leap, Recruiting Mission, VanHackathon, Premium-only Webinar and Open Webinar. All of those should be displayed on your app – if they aren't, you won't be scored.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olusoladeboy/VanHack_Event_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olusoladeboy/VanHack_Event_Page/issues"
+  },
+  "homepage": "https://github.com/Olusoladeboy/VanHack_Event_Page#readme"
+}
